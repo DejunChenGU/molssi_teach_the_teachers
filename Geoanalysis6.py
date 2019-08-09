@@ -7,6 +7,8 @@
 """
 Geometry Analysis for bond length
 
+Author: Dejun Chen, djchen1983@gmail.com
+
 """
 import numpy
 import os
